@@ -7,7 +7,7 @@ This is a fork of a GNU Radio Companion project. See the original [here](https:/
 
 ## GRC Flowgraph
 
-The main flowgraph for this project is: `[Interferometry.grc]`
+The main flowgraph for this project is: `Interferometry.grc`
 
 
 ## Dependencies
@@ -26,7 +26,7 @@ The main flowgraph for this project is: `[Interferometry.grc]`
 
 ## Usage
 
-1.  Open the flowgraph `[flowgraph_name.grc]` in GNU Radio Companion.
+1.  Open the flowgraph `Interferometry.grc` in GNU Radio Companion.
 2.  Execute the flowgraph.
 3.  Input parameters of the system
 4.  Observe changes on the graph
