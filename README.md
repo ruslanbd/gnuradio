@@ -20,8 +20,8 @@ The main flowgraph for this project is: `[Interferometry.grc]`
 2.  Clone this repository:
 
     ```bash
-    git clone [repository_url]
-    cd [project_directory]
+    git clone https://github.com/ruslanbd/gnuradio.git
+    cd gnuradio
     ```
 
 ## Usage
