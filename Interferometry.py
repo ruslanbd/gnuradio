@@ -214,7 +214,7 @@ class Interferometry(gr.top_block, Qt.QWidget):
 
 
 
-        labels = ['Antenna 1', 'Antenna 2', 'Interferometry', 'Antenna 3', '',
+        labels = ['Antenna 1', 'Antenna 2', 'Interferometry', 'Antenna 3', 'Antenna 4',
             '', '', '', '', '']
         widths = [1, 1, 1, 1, 1,
             1, 1, 1, 1, 1]
